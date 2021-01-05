@@ -17,3 +17,6 @@ dependencies:
     - requests
     - lightgbm
     - catboost
+    - torch
+    - torchvision
+    - tensorboardX
